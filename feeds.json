@@ -1,0 +1,138 @@
+[
+  {
+    "name": "Capital Ethiopia",
+    "url": "https://www.capitalethiopia.com/feed/",
+    "enabled": true,
+    "ethiopiaFocused": true,
+    "termsReview": "Confirm syndication terms before public reuse; display headline metadata and original link only.",
+    "group": "Ethiopian Publishers"
+  },
+  {
+    "name": "New Business Ethiopia",
+    "url": "https://newbusinessethiopia.com/feed/",
+    "enabled": true,
+    "ethiopiaFocused": true,
+    "termsReview": "Confirm syndication terms before public reuse; display headline metadata and original link only.",
+    "group": "Ethiopian Publishers"
+  },
+  {
+    "name": "The Reporter Ethiopia",
+    "url": "https://www.thereporterethiopia.com/feed/",
+    "enabled": true,
+    "ethiopiaFocused": true,
+    "termsReview": "Confirm syndication terms before public reuse; display headline metadata and original link only.",
+    "group": "Ethiopian Publishers"
+  },
+  {
+    "name": "Addis Fortune",
+    "url": "https://addisfortune.news/feed/",
+    "enabled": true,
+    "ethiopiaFocused": true,
+    "termsReview": "Confirm syndication terms before public reuse; display headline metadata and original link only.",
+    "group": "Ethiopian Publishers"
+  },
+  {
+    "name": "Addis Standard",
+    "url": "https://addisstandard.com/feed/",
+    "enabled": true,
+    "ethiopiaFocused": true,
+    "termsReview": "Confirm syndication terms before public reuse; display headline metadata and original link only.",
+    "group": "Ethiopian Publishers"
+  },
+  {
+    "name": "Ethiopian Monitor",
+    "url": "https://ethiopianmonitor.com/feed/",
+    "enabled": true,
+    "ethiopiaFocused": true,
+    "termsReview": "Confirm syndication terms before public reuse; display headline metadata and original link only.",
+    "group": "Ethiopian Publishers"
+  },
+  {
+    "name": "Ethiopia Insight",
+    "url": "https://www.ethiopia-insight.com/feed/",
+    "enabled": true,
+    "ethiopiaFocused": true,
+    "termsReview": "Confirm syndication terms before public reuse; display headline metadata and original link only.",
+    "group": "Ethiopian Publishers"
+  },
+  {
+    "name": "Walta Information",
+    "url": "https://waltainfo.com/feed/",
+    "enabled": true,
+    "ethiopiaFocused": true,
+    "termsReview": "Confirm syndication terms before public reuse; display headline metadata and original link only.",
+    "group": "Ethiopian Publishers"
+  },
+  {
+    "name": "The Habesha",
+    "url": "https://zehabesha.com/feed/",
+    "enabled": true,
+    "ethiopiaFocused": true,
+    "termsReview": "Confirm syndication terms before public reuse; display headline metadata and original link only.",
+    "group": "Ethiopian Publishers"
+  },
+  {
+    "name": "Ethiopia Nege",
+    "url": "https://ethiopianege.com/feed/",
+    "enabled": true,
+    "ethiopiaFocused": true,
+    "termsReview": "Confirm syndication terms before public reuse; display headline metadata and original link only.",
+    "group": "Ethiopian Publishers"
+  },
+  {
+    "name": "Tadias",
+    "url": "https://www.tadias.com/feed/atom",
+    "enabled": true,
+    "ethiopiaFocused": true,
+    "termsReview": "Confirm syndication terms before public reuse; display headline metadata and original link only.",
+    "group": "Ethiopian Publishers"
+  },
+  {
+    "name": "BBC Africa",
+    "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+    "enabled": false,
+    "ethiopiaFocused": false,
+    "group": "Global News",
+    "termsReview": "BBC RSS licensing conditions may require permission for public/business syndication; disabled until cleared."
+  },
+  {
+    "name": "BBC Business",
+    "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
+    "enabled": false,
+    "ethiopiaFocused": false,
+    "group": "Global News",
+    "termsReview": "Disabled pending explicit permission for public display."
+  },
+  {
+    "name": "Al Jazeera News",
+    "url": "https://www.aljazeera.com/xml/rss/all.xml",
+    "enabled": false,
+    "ethiopiaFocused": false,
+    "group": "Global News",
+    "termsReview": "Disabled pending live URL and permission verification."
+  },
+  {
+    "name": "African Development Bank",
+    "url": "https://www.afdb.org/en/news-and-events/rss",
+    "enabled": false,
+    "ethiopiaFocused": false,
+    "group": "Institutions",
+    "termsReview": "Candidate feed; confirm endpoint and redistribution terms first."
+  },
+  {
+    "name": "World Bank News",
+    "url": "https://www.worldbank.org/en/news/rss",
+    "enabled": false,
+    "ethiopiaFocused": false,
+    "group": "Institutions",
+    "termsReview": "Candidate feed; confirm endpoint and redistribution terms first."
+  },
+  {
+    "name": "IMF News",
+    "url": "https://www.imf.org/en/News/RSS",
+    "enabled": false,
+    "ethiopiaFocused": false,
+    "group": "Institutions",
+    "termsReview": "Candidate feed; confirm endpoint and redistribution terms first."
+  }
+]
