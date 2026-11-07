@@ -72,6 +72,14 @@
     "group": "Ethiopian Publishers"
   },
   {
+    "name": "Birr Metrics",
+    "url": "https://news.google.com/rss/search?q=site%3Abirrmetrics.com+Ethiopia+when%3A14d&hl=en-US&gl=US&ceid=US%3Aen",
+    "enabled": true,
+    "ethiopiaFocused": true,
+    "termsReview": "Google News RSS discovery filtered to Birr Metrics articles; display headlines, attribution, and links only; check original publisher terms.",
+    "group": "Ethiopian Publishers"
+  },
+  {
     "name": "Global — Ethiopia Economy",
     "url": "https://news.google.com/rss/search?q=Ethiopia+economy+investment+business+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
     "enabled": true,
