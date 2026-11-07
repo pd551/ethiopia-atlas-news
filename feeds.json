@@ -48,24 +48,8 @@
     "group": "Ethiopian Publishers"
   },
   {
-    "name": "Ethiopia Insight",
-    "url": "https://www.ethiopia-insight.com/feed/",
-    "enabled": true,
-    "ethiopiaFocused": true,
-    "termsReview": "Confirm syndication terms before public reuse; display headline metadata and original link only.",
-    "group": "Ethiopian Publishers"
-  },
-  {
     "name": "Walta Information",
     "url": "https://waltainfo.com/feed/",
-    "enabled": true,
-    "ethiopiaFocused": true,
-    "termsReview": "Confirm syndication terms before public reuse; display headline metadata and original link only.",
-    "group": "Ethiopian Publishers"
-  },
-  {
-    "name": "The Habesha",
-    "url": "https://zehabesha.com/feed/",
     "enabled": true,
     "ethiopiaFocused": true,
     "termsReview": "Confirm syndication terms before public reuse; display headline metadata and original link only.",
@@ -88,51 +72,35 @@
     "group": "Ethiopian Publishers"
   },
   {
-    "name": "BBC Africa",
-    "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
-    "enabled": false,
+    "name": "Global — Ethiopia Economy",
+    "url": "https://news.google.com/rss/search?q=Ethiopia+economy+investment+business+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
+    "enabled": true,
     "ethiopiaFocused": false,
     "group": "Global News",
-    "termsReview": "BBC RSS licensing conditions may require permission for public/business syndication; disabled until cleared."
+    "termsReview": "Google News search RSS headline/link discovery. Publisher attribution and downstream display terms should be reviewed before public syndication."
   },
   {
-    "name": "BBC Business",
-    "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
-    "enabled": false,
+    "name": "Global — Ethiopia Trade",
+    "url": "https://news.google.com/rss/search?q=Ethiopia+coffee+gold+exports+trade+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
+    "enabled": true,
     "ethiopiaFocused": false,
     "group": "Global News",
-    "termsReview": "Disabled pending explicit permission for public display."
+    "termsReview": "Google News search RSS headline/link discovery. Publisher attribution and downstream display terms should be reviewed before public syndication."
   },
   {
-    "name": "Al Jazeera News",
-    "url": "https://www.aljazeera.com/xml/rss/all.xml",
-    "enabled": false,
+    "name": "Global — Ethiopia Development Finance",
+    "url": "https://news.google.com/rss/search?q=Ethiopia+IMF+World+Bank+financing+debt+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
+    "enabled": true,
     "ethiopiaFocused": false,
     "group": "Global News",
-    "termsReview": "Disabled pending live URL and permission verification."
+    "termsReview": "Google News search RSS headline/link discovery. Publisher attribution and downstream display terms should be reviewed before public syndication."
   },
   {
-    "name": "African Development Bank",
-    "url": "https://www.afdb.org/en/news-and-events/rss",
-    "enabled": false,
+    "name": "Global — Ethiopia Infrastructure",
+    "url": "https://news.google.com/rss/search?q=Ethiopia+Airlines+energy+railway+manufacturing+infrastructure+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
+    "enabled": true,
     "ethiopiaFocused": false,
-    "group": "Institutions",
-    "termsReview": "Candidate feed; confirm endpoint and redistribution terms first."
-  },
-  {
-    "name": "World Bank News",
-    "url": "https://www.worldbank.org/en/news/rss",
-    "enabled": false,
-    "ethiopiaFocused": false,
-    "group": "Institutions",
-    "termsReview": "Candidate feed; confirm endpoint and redistribution terms first."
-  },
-  {
-    "name": "IMF News",
-    "url": "https://www.imf.org/en/News/RSS",
-    "enabled": false,
-    "ethiopiaFocused": false,
-    "group": "Institutions",
-    "termsReview": "Candidate feed; confirm endpoint and redistribution terms first."
+    "group": "Global News",
+    "termsReview": "Google News search RSS headline/link discovery. Publisher attribution and downstream display terms should be reviewed before public syndication."
   }
 ]
